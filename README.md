@@ -1,8 +1,17 @@
-# React + Vite
+# 🧊 3D Cube Loading Animation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, minimal 3D cube loading animation built with **Three.js** (via React Three Fiber) that you can drop into any React app as a stylish loader or splash screen.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## ⚙️ Tech Stack
+
+- **React.js** – Component-based UI  
+- **React Three Fiber** – Three.js renderer for React  
+- **Three.js** – 3D graphics library  
+- **Tailwind CSS** – Utility-first styling  
+
+---
+
+![image](https://github.com/user-attachments/assets/03167a53-9e82-417e-8c30-9999e920af5a)
